@@ -1,4 +1,4 @@
-## Udemy-Git Course
+## Udemy-Git Introduction to Git and GitHub Course
 ### First Assignment
 
 Name: Anwaar Abd
